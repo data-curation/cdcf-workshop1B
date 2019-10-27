@@ -1,6 +1,8 @@
 ---
 title: CDCF Workshop: Making Ethical and Effective Data Management Work for You!
 ---
+# Making Ethical and Effective Data Management Work for You!
+Materials for workshop 1B of the [Canadian Data Curation Forum](https://data-curation.github.io/)
 
 ## Presentations slides
 <div style="position:relative;padding-top:56.25%;">
