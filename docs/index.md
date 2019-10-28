@@ -11,8 +11,6 @@ Materials for workshop 1B of the [Canadian Data Curation Forum](https://data-cur
 </div>
 [Download PDF](https://data-curation.github.io/cdcf-workshop1B/1. Canadian_RDM_Landscape_Overview_CDCF_16Oct2019_jd.pdf)
 
-<br>
-
 ---
 
 <br>
@@ -22,8 +20,6 @@ Materials for workshop 1B of the [Canadian Data Curation Forum](https://data-cur
 <iframe src="//docs.google.com/viewer?url=https://data-curation.github.io/cdcf-workshop1B/2. DMPs_101_CDCF_16Oct2019_jd.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 [Download PDF](https://data-curation.github.io/cdcf-workshop1B/2. DMPs_101_CDCF_16Oct2019_jd.pdf)
-
-<br>
 
 ---
 
